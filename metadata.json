@@ -1,0 +1,11 @@
+{
+  "name": "COKEcoin",
+  "symbol": "COKE",
+  "uri": "https://raw.githubusercontent.com/mephisto-bit/meme-coin-metadata/main/metadata.json",
+  "seller_fee_basis_points": 500,
+  "creators": [
+    {
+      "address": "8RVuudxoDKH3oj8yf2LR4eehTtjwBDUdZSE3MJEuhsbW",
+      "share": 100
+    }
+  ]
